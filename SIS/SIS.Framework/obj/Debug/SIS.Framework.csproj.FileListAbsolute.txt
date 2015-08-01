@@ -1,0 +1,4 @@
+C:\Users\Lenovo-PC\Documents\Visual Studio 2013\Projects\SIS\SIS.Framework\bin\Debug\SIS.Framework.dll
+C:\Users\Lenovo-PC\Documents\Visual Studio 2013\Projects\SIS\SIS.Framework\bin\Debug\SIS.Framework.pdb
+C:\Users\Lenovo-PC\Documents\Visual Studio 2013\Projects\SIS\SIS.Framework\obj\Debug\SIS.Framework.dll
+C:\Users\Lenovo-PC\Documents\Visual Studio 2013\Projects\SIS\SIS.Framework\obj\Debug\SIS.Framework.pdb
